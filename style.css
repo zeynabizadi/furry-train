@@ -1,0 +1,137 @@
+/* ----- START BASE STYLE ----- */
+
+html {
+    height: 100%;
+}
+
+body {
+    
+    position: relative;
+    min-height: 100%;
+    background-color: #edf0f7;
+}
+
+html *, body * {
+    margin: 0px;
+    padding: 0px;
+    direction: rtl;
+}
+
+/* ----- START BASE TAG STYLE ----- */
+
+header {
+    font-size: 20px;
+    direction:ltr;
+    height:40px;
+    background-color:#c5b565 ;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif; 
+    text-align: left;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    
+}
+
+main {
+    
+    font-size: 15px;
+    padding-bottom: 200px;
+    
+}
+footer{
+    min-height: 30px;
+    position: absolute;
+    background-color:#c7b352 ;
+    font-size: 15px;
+    text-align: center;
+    right: 0;
+    bottom: 1px;
+    left: 0;
+   
+}
+div.buttons ,div.logo {
+    float: right;
+}
+
+/* -----  START LOGO STYLE  -----*/
+
+div.logo{
+    width:30%;
+    float: left;
+    height:30px;
+    padding-top:60px;
+    padding-left:70px ;
+
+}
+/*  ----- START BUTTONS STYLE ---- */
+
+div.buttons{
+    width:50%
+}
+
+ button{
+    width:30%;
+    height:50px ;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 15px 80px 15px 10px;
+    cursor: pointer;
+    font-family:Arial, Helvetica, sans-serif; 
+ }  
+ .button1{
+     margin-top: 80px;
+     background-color:#cccccc ;
+ } 
+ .button2{
+    background-color: #cccccc;
+
+ }
+ .button3{
+    background-color:#cccccc;
+ }
+ .button4{
+     width:15%;
+     background-color:#c7b352 ;
+     text-align: center;
+     margin: 40px 40px 40px 50px;
+     float: left;
+ }
+.button5{
+    width: 15%;
+    background-color: #54af4c;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 20px;
+    margin: 40px 40px 40px 50px;
+
+}
+ /*  -----  START LINK STYLE  ----- */
+ a{
+    text-decoration:none;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif; 
+ }
+
+ /* ---- START GALLERY STYLE ---- */
+ div.photo {
+
+  padding-top: 50px;
+  padding-right:50px;
+  padding-bottom: 50px;
+  margin:50px 80px 80px 80px 
+  
+ }
+ /*  ----START FORM STYLE ---- */
+
+ div.form{
+     font-size: 20px;
+     font-family: Arial, Helvetica, sans-serif;
+     text-align: right;
+ }
+ 
