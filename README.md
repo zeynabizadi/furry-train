@@ -1,3 +1,3 @@
 # کارگاه کامپیوتر
 
--کارگاه(https://zeynabizadi.github.io/furry-train/)
+-[سایت تمرینی](https://zeynabizadi.github.io/furry-train/)
